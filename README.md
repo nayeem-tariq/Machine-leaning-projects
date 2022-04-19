@@ -1,2 +1,2 @@
-# Machine-leaning-projects
-Machine learning projecys
+# Data Science Templates
+
